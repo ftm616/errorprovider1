@@ -1,10 +1,10 @@
-ErrorProvider Validation App (C# / WinForms)
+#ErrorProvider Validation App (C# / WinForms)
 📌 Description
 
 This project demonstrates how to use the ErrorProvider component in a Windows Forms application to validate user input.
 The form checks fields such as text boxes, numbers, or empty entries, and displays clear visual error icons whenever the input is invalid.
-
-✨ Features
+---
+## ✨ Features
 
 Real-time input validation
 
@@ -15,8 +15,8 @@ Prevents empty or incorrect values
 Clean, readable, and academic-level code
 
 Fully safe against crashes from bad input
-
-🚀 How It Works
+---
+## 🚀 How It Works
 
 User enters data in the form fields
 
